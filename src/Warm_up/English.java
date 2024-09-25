@@ -1,7 +1,4 @@
-package Strategy_and_Observer;
-
-import java.util.ArrayList;
-import java.util.List;
+package Warm_up;
 
 public class English extends Person
 {

@@ -1,6 +1,4 @@
-package Strategy_and_Observer;
-
-import java.util.ArrayList;
+package Warm_up;
 
 public class Italian extends Person
 {

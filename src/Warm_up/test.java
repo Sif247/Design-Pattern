@@ -1,4 +1,4 @@
-package Strategy_and_Observer;
+package Warm_up;
 
 public class test
 {
@@ -11,5 +11,5 @@ public class test
 
         persona1.say();
         persona2.say();
-;    }
+    }
 }
