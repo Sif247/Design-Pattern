@@ -4,15 +4,18 @@ public class Italian extends Person
 {
 
 
-    public Italian(String name, int age) {
+    public Italian(String name, int age)
+    {
         super(name, age);
     }
 
-    public Italian(String name) {
+    public Italian(String name)
+    {
         super(name);
     }
 
-    void parla() {
+    void parla()
+    {
         System.out.println("Ciao gente! ");
     }
 

@@ -11,5 +11,6 @@ public class test
 
         persona1.say();
         persona2.say();
+        System.out.println(persona2.getFriends());
     }
 }
