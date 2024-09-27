@@ -1,6 +1,4 @@
-package VideoGioco;
-
-import java.util.ArrayList;
+package Strategy.VideoGioco;
 
 public class Warrior extends Character{
     public Warrior() {

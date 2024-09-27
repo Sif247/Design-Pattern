@@ -1,4 +1,4 @@
-package VideoGioco;
+package Strategy.VideoGioco;
 
 public class LaserGunFight implements FightBehavior{
     @Override

@@ -1,4 +1,4 @@
-package VideoGioco;
+package Strategy.VideoGioco;
 
 public class Simulator{
     public static void main(String[] args) {

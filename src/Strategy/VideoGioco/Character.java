@@ -1,4 +1,4 @@
-package VideoGioco;
+package Strategy.VideoGioco;
 
 public abstract class Character{
     FightBehavior fightBehavior;

@@ -1,4 +1,4 @@
-package VideoGioco;
+package Strategy.VideoGioco;
 
 public class ToxicBlobFight implements FightBehavior{
     @Override
