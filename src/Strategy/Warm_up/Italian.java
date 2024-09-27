@@ -1,4 +1,4 @@
-package Warm_up;
+package Strategy.Warm_up;
 
 public class Italian extends Person
 {
