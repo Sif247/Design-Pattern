@@ -1,4 +1,4 @@
-package Observer.Materiale_Didattico_with_pull;
+package Observer;
 
 public class Test {
 
